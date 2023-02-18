@@ -1,0 +1,2978 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"username": "harsh09889",
+			"name": "harsh kumar",
+			"password": "123456"
+		}
+	],
+	"restaurants": [
+		{
+			"id": 1,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/aehf6qrfk9wxcwwciqik",
+			"name": "Sandwich Express",
+			"discription": "Street Food, Snacks, Beverages",
+			"rating": "4.5",
+			"deliverTime": 30,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Sandwiches",
+					"foodItems": [1, 2, 3, 4]
+				},
+				{
+					"category": "Sandwich Premium",
+					"foodItems": [5, 6, 7, 8]
+				},
+				{
+					"category": "Kids Corner",
+					"foodItems": [9, 10, 11, 12]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 2,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jzzrlap0b4mcagd2jqxh",
+			"name": "Natural Ice Cream",
+			"discription": "Ice Cream, Desserts",
+			"rating": "4.8",
+			"deliverTime": 23,
+			"cheapestPrice": 150,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [13, 14, 15]
+				},
+				{
+					"category": "Seasonal",
+					"foodItems": [16, 17, 18]
+				},
+				{
+					"category": "Friday Funday Flavour (New Attraction)",
+					"foodItems": [19, 20, 21]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 3,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hhdghgxggucbb0fasvw2",
+			"name": "Arthur's Theme",
+			"discription": "European",
+			"rating": "4.2",
+			"deliverTime": 34,
+			"cheapestPrice": 800,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [22, 23, 24]
+				},
+				{
+					"category": "Soft Beverage",
+					"foodItems": [25, 26]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 5,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hb1de28cpzghkopuj6kt",
+			"name": "Try Luck",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "4.2",
+			"deliverTime": 24,
+			"cheapestPrice": 300,
+			"discount": "FREE DELIVERY",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 6,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/qqtltcyy30hc3fupq9xw",
+			"name": "Al Barkat",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "4.7",
+			"deliverTime": 19,
+			"cheapestPrice": 300,
+			"discount": "10% off | Use TRYNEW",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 7,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zw45aus231aev2vibddx",
+			"name": "Theobroma",
+			"discription": "Bakery, Desserts",
+			"rating": "4.7",
+			"deliverTime": 24,
+			"cheapestPrice": 500,
+			"discount": "30% off | Use SPECIALS",
+			"menu": [
+				{
+					"category": "Christmas Specials",
+					"foodItems": [45, 46, 47]
+				},
+				{
+					"category": "Combos",
+					"foodItems": [48, 49, 50]
+				},
+				{
+					"category": "Cakes",
+					"foodItems": [51, 52, 53]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 8,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/whspalrlekdflpvz0ww0",
+			"name": "Hotel New Zaika",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "4.4",
+			"deliverTime": 17,
+			"cheapestPrice": 300,
+			"discount": "10% off | Use TRYNEW",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 9,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bknsmhh8eepnfzqgpkmm",
+			"name": "Dawat Restaurant",
+			"discription": "Chinese, North Indian",
+			"rating": "4.5",
+			"deliverTime": 23,
+			"cheapestPrice": 300,
+			"discount": "60% off on all orders",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 10,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/afqpghihhwbpynrmedgk",
+			"name": "Donna Cucina",
+			"discription": "Italian",
+			"rating": "4.6",
+			"deliverTime": 33,
+			"cheapestPrice": 530,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "This Week Special",
+					"foodItems": [54, 55, 56]
+				},
+				{
+					"category": "Dolce",
+					"foodItems": [57, 58]
+				},
+				{
+					"category": "Antipasti/contorni",
+					"foodItems": [59, 60, 61]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 11,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nebmpzgclwofwgloxxwx",
+			"name": "Little Italy",
+			"discription": "Italian",
+			"rating": "4.2",
+			"deliverTime": 34,
+			"cheapestPrice": 1200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "This Week Special",
+					"foodItems": [54, 55, 56]
+				},
+				{
+					"category": "Dolce",
+					"foodItems": [57, 58]
+				},
+				{
+					"category": "Antipasti/contorni",
+					"foodItems": [59, 60, 61]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 12,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/c3vnq4oklx28q0jt3fhd",
+			"name": "Hotel Lazeez",
+			"discription": "North Indian",
+			"rating": "4.3",
+			"deliverTime": 32,
+			"cheapestPrice": 350,
+			"discount": "60% off on all orders",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			]
+		},
+		{
+			"id": 14,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wkkgzuunjres5rgebiwq",
+			"name": "Navyug Restaurant",
+			"discription": "North Indian, Chinese, Tandoor, Biryani",
+			"rating": "4.3",
+			"deliverTime": 27,
+			"cheapestPrice": 150,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 15,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/m6hbuc3gefoum40jfvp7",
+			"name": "Sante Spa Cuisine",
+			"discription": "Indian, Asian, Italian",
+			"rating": "4.2",
+			"deliverTime": 31,
+			"cheapestPrice": 1000,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "This Week Special",
+					"foodItems": [54, 55, 56]
+				},
+				{
+					"category": "Dolce",
+					"foodItems": [57, 58]
+				},
+				{
+					"category": "Antipasti/contorni",
+					"foodItems": [59, 60, 61]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 16,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kby99zotmxjuie1wcdrs",
+			"name": "Biriyani King",
+			"discription": "Biryani, North Indian, Chinese, Snacks",
+			"rating": "4.4",
+			"deliverTime": 25,
+			"cheapestPrice": 150,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Biryanis",
+					"foodItems": [62, 63, 64, 65, 66]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 17,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/entn489swox8wqxy3e69",
+			"name": "Madras Tiffin Room",
+			"discription": "South Indian",
+			"rating": "4.2",
+			"deliverTime": 27,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Dosa",
+					"foodItems": [67, 68, 69]
+				},
+				{
+					"category": "Uttappa",
+					"foodItems": [70, 71, 72]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 18,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/pdrfshhowjo9amc9opzh",
+			"name": "Kapila Kathi Kebab",
+			"discription": "Fast Food",
+			"rating": "4.4",
+			"deliverTime": 24,
+			"cheapestPrice": 250,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 19,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rbpxi2z0tims9up6jqlc",
+			"name": "Shegaon Kachori",
+			"discription": "North Indian",
+			"rating": "4.3",
+			"deliverTime": 29,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 20,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/polhhfmqgqwragwgt9b0",
+			"name": "Subway",
+			"discription": "Healthy Food, Salads, Snacks, Desserts, Beverages",
+			"rating": "4.1",
+			"deliverTime": 29,
+			"cheapestPrice": 350,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Breakfast Sandwiches",
+					"foodItems": [73, 74]
+				},
+				{
+					"category": "Veg Sandwiches",
+					"foodItems": [75, 76, 77]
+				},
+				{
+					"category": "Veg Salads",
+					"foodItems": [78, 79, 80]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 21,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/uhyd52fcwccs1d2gqbwy",
+			"name": "Itminaan Matka Biryani - Slow Cooked",
+			"discription": "Biryani, North Indian, Mughlai",
+			"rating": "4.5",
+			"deliverTime": 36,
+			"cheapestPrice": 250,
+			"discount": "Flat ₹125 off on orders above ₹299",
+			"menu": [
+				{
+					"category": "Biryanis",
+					"foodItems": [62, 63, 64, 65, 66]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 22,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/qb5vbxxtsjdlgeesohht",
+			"name": "Katakirr Misal",
+			"discription": "Maharashtrian, Snacks",
+			"rating": "4.3",
+			"deliverTime": 27,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Quick Bites",
+					"foodItems": [81, 82, 83]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 23,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/r4b9vnl1d9tofkmehits",
+			"name": "sp chinese fast food",
+			"discription": "Chinese, Fast Food, Indian",
+			"rating": "4.7",
+			"deliverTime": 28,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 25,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bgcczyxive4uyzlc9bdq",
+			"name": "Bhuka Burger",
+			"discription": "Burgers",
+			"rating": "4.2",
+			"deliverTime": 25,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Pure Veg Burgers",
+					"foodItems": [84, 85]
+				},
+				{
+					"category": "Non-veg Burgers",
+					"foodItems": [86, 87]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 26,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/j7qdw1ub5llnhuatzfwf",
+			"name": "Hotel Al Zaika",
+			"discription": "North Indian, Chinese, Biryani",
+			"rating": "3.6",
+			"deliverTime": 22,
+			"cheapestPrice": 350,
+			"discount": "70% off on all orders",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 27,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xwdjksb2l4fk7zvbdi7m",
+			"name": "Hungrezy",
+			"discription": "Asian, Continental, Fast Food, Snacks, Combo, Desserts, Chinese, Indian, North I...",
+			"rating": "3.7",
+			"deliverTime": 38,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 28,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wuiase03yfsygqhmnsjx",
+			"name": "The Indian Kitchen",
+			"discription": "North Indian",
+			"rating": "3.9",
+			"deliverTime": 35,
+			"cheapestPrice": 350,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 29,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/f34657e4f398eec0e714971b58f8be69",
+			"name": "Mandeep Multicusen",
+			"discription": "North Indian, Chinese, Snacks",
+			"rating": "3.9",
+			"deliverTime": 23,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 30,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nhfwaza7qtvtvcrhucd8",
+			"name": "Aaina",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "3.9",
+			"deliverTime": 24,
+			"cheapestPrice": 300,
+			"discount": "60% off on all orders",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 31,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/pagrk3ia3imuffgtlv3t",
+			"name": "Chafa Cafe and Studio",
+			"discription": "European, Continental",
+			"rating": "3.9",
+			"deliverTime": 33,
+			"cheapestPrice": 900,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [22, 23, 24]
+				},
+				{
+					"category": "Soft Beverage",
+					"foodItems": [25, 26]
+				}
+			],
+			"city": "pune"
+		},
+		{
+			"id": 32,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vznqad6m9aubtij2pgv4",
+			"name": "Sim Sim",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "3.8",
+			"deliverTime": 24,
+			"cheapestPrice": 300,
+			"discount": "FREE DELIVERY",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 33,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ka4ldiear2xewsvomgbf",
+			"name": "TASTE OF MALVAN",
+			"discription": "Maharashtrian, Thalis",
+			"rating": "3.7",
+			"deliverTime": 36,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Quick Bites",
+					"foodItems": [81, 82, 83]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 34,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/f34657e4f398eec0e714971b58f8be69",
+			"name": "Mandeep Multicusen",
+			"discription": "North Indian, Chinese, Snacks",
+			"rating": "3.5",
+			"deliverTime": 23,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 35,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ntw38hjsn9ccuegauk4i",
+			"name": "THE CHICKSTER- Fried Chicken",
+			"discription": "American, Snacks, Beverages, Desserts, Fast Food, Burgers",
+			"rating": "3.9",
+			"deliverTime": 24,
+			"cheapestPrice": 450,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Pure Veg Burgers",
+					"foodItems": [84, 85]
+				},
+				{
+					"category": "Non-veg Burgers",
+					"foodItems": [86, 87]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 36,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/add7506dd63254228f05a1bed88ad1b1",
+			"name": "Rainbow Restaurant",
+			"discription": "Indian, Snacks",
+			"rating": "3.2",
+			"deliverTime": 27,
+			"cheapestPrice": 150,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Morinig Breakfast Combos",
+					"foodItems": [88, 89, 90]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 37,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/a8yewdrdw7ublpzqa8wo",
+			"name": "Zen Cafe",
+			"discription": "European",
+			"rating": "3.2",
+			"deliverTime": 34,
+			"cheapestPrice": 800,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [22, 23, 24]
+				},
+				{
+					"category": "Soft Beverage",
+					"foodItems": [25, 26]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 38,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wqisor45ehonerfsffsb",
+			"name": "Nawabi Zaika",
+			"discription": "North Indian, Biryani, Chinese",
+			"rating": "3.7",
+			"deliverTime": 27,
+			"cheapestPrice": 400,
+			"discount": "70% off on all orders",
+			"menu": [
+				{
+					"category": "Biryanis",
+					"foodItems": [62, 63, 64, 65, 66]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 39,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/krpwhfjb6efpnkn0wfmg",
+			"name": "JOBOS CAFE",
+			"discription": "Fast Food, Snacks",
+			"rating": "3.7",
+			"deliverTime": 27,
+			"cheapestPrice": 350,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 40,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hsjwdfebsidawio2jzkk",
+			"name": "NH1 Bowls - Highway To North",
+			"discription": "North Indian, Punjabi, Home Food",
+			"rating": "3.8",
+			"deliverTime": 23,
+			"cheapestPrice": 250,
+			"discount": "Flat ₹125 off on orders above ₹299",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 42,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/c3pvvxvbuxm1vo2gispx",
+			"name": "Tutto Bene - Desserts Cafe by Little Italy",
+			"discription": "Snacks, Desserts",
+			"rating": "3.4",
+			"deliverTime": 30,
+			"cheapestPrice": 450,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Morinig Breakfast Combos",
+					"foodItems": [88, 89, 90]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 44,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/eysklkavsxwzoe4h0o6d",
+			"name": "Teri Rajput",
+			"discription": "Street Food, North Indian, Desserts",
+			"rating": "3.6",
+			"deliverTime": 26,
+			"cheapestPrice": 170,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 45,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/a9caqfoggvjzlc3vrz56",
+			"name": "Mealful Rolls - India's Biggest Rolls",
+			"discription": "Fast Food, Snacks, North Indian, Desserts",
+			"rating": "3.7",
+			"deliverTime": 29,
+			"cheapestPrice": 250,
+			"discount": "Flat ₹125 off on orders above ₹299",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 46,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/375f8d233613b205ab37f42d110edc88",
+			"name": "IT Biryaniwala",
+			"discription": "Biryani",
+			"rating": "3.8",
+			"deliverTime": 30,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Biryanis",
+					"foodItems": [62, 63, 64, 65, 66]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 47,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/eerr7j8ijoavho9xwycl",
+			"name": "Ahling Chinese Corner",
+			"discription": "Chinese",
+			"rating": "3.6",
+			"deliverTime": 30,
+			"cheapestPrice": 800,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 48,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vymxne4qzolwgghbqntc",
+			"name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+			"discription": "Desserts, Ice Cream, Ice Cream Cakes",
+			"rating": "3.6",
+			"deliverTime": 23,
+			"cheapestPrice": 200,
+			"discount": "20% off | Use SWIGGYIT",
+			"menu": [
+				{
+					"category": "Christmas Specials",
+					"foodItems": [45, 46, 47]
+				},
+				{
+					"category": "Combos",
+					"foodItems": [48, 49, 50]
+				},
+				{
+					"category": "Cakes",
+					"foodItems": [51, 52, 53]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 49,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/so7ooiy2zdbivbpzuzec",
+			"name": "Yummy Pasta &amp; Fries",
+			"discription": "Pastas, Snacks, Beverages",
+			"rating": "3.8",
+			"deliverTime": 29,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [45, 46, 47]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 51,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/h4aitnci163ne1vbrxee",
+			"name": "Shamiyana",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "3.8",
+			"deliverTime": 18,
+			"cheapestPrice": 300,
+			"discount": "10% off | Use TRYNEW",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 52,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ytu49va4qqhnaaazsggx",
+			"name": "Taste of Indore",
+			"discription": "Snacks, Indian",
+			"rating": "3.8",
+			"deliverTime": 31,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Morinig Breakfast Combos",
+					"foodItems": [88, 89, 90]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 53,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mjbhe7jpkyot6vmmlquj",
+			"name": "The Chinese Kitchen",
+			"discription": "Chinese",
+			"rating": "3.9",
+			"deliverTime": 35,
+			"cheapestPrice": 350,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 54,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hzxza2bt20ihfjtggr9m",
+			"name": "Mankar Dosa",
+			"discription": "South Indian, Fast Food",
+			"rating": "3.9",
+			"deliverTime": 27,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Dosa",
+					"foodItems": [67, 68, 69]
+				},
+				{
+					"category": "Uttappa",
+					"foodItems": [70, 71, 72]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 56,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xuiamdbtredygzajgiby",
+			"name": "Happy Singh",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "3.5",
+			"deliverTime": 24,
+			"cheapestPrice": 300,
+			"discount": "FREE DELIVERY",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 57,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/isqqhcr6nbyvbym90wpb",
+			"name": "A1 Restaurant",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "3.6",
+			"deliverTime": 19,
+			"cheapestPrice": 300,
+			"discount": "10% off | Use TRYNEW",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 59,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/r1t67tyorurhrywkwiny",
+			"name": "1441 Pizzeria",
+			"discription": "Italian, Pizzas, Pastas",
+			"rating": "3.8",
+			"deliverTime": 29,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [45, 46, 47]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 60,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wrdwvlbexyvngupzmfe7",
+			"name": "Joshi Wadewale",
+			"discription": "Street Food, South Indian, Beverages",
+			"rating": "3.6",
+			"deliverTime": 29,
+			"cheapestPrice": 90,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Dosa",
+					"foodItems": [67, 68, 69]
+				},
+				{
+					"category": "Uttappa",
+					"foodItems": [70, 71, 72]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 61,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mh88xanyjwhnqs9mgw8j",
+			"name": "Roopalli Veg Non-Veg",
+			"discription": "North Indian, Chinese",
+			"rating": "3.6",
+			"deliverTime": 27,
+			"cheapestPrice": 500,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 62,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wxe49tgae5yy4jtedlxd",
+			"name": "Masala Punjab",
+			"discription": "North Indian, Chinese",
+			"rating": "3.8",
+			"deliverTime": 24,
+			"cheapestPrice": 600,
+			"discount": "60% off on all orders",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 63,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/buh5wmzdi8varrcaok0t",
+			"name": "Nandu's Paratha &amp; TND Fastfood",
+			"discription": "North Indian",
+			"rating": "3.8",
+			"deliverTime": 25,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 64,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jyytpgytrlgjvoq7vlbi",
+			"name": "ROCKET MOMOS",
+			"discription": "Chinese, Beverages",
+			"rating": "3.8",
+			"deliverTime": 24,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [45, 46, 47]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 65,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hrducs0x5nigfxr2r4rd",
+			"name": "Palace of Theme Cakes",
+			"discription": "Bakery",
+			"rating": "3.8",
+			"deliverTime": 30,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Cakes",
+					"foodItems": [93, 94, 95, 96, 97]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 66,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/szqtjh9ry9i9jbxiph5t",
+			"name": "Copper Chocs",
+			"discription": "Desserts, Bakery",
+			"rating": "3.9",
+			"deliverTime": 22,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Cakes",
+					"foodItems": [93, 94, 95, 96, 97]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 67,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vtku1aggow0z066mqvx5",
+			"name": "Foodland",
+			"discription": "Chinese, North Indian",
+			"rating": "3.9",
+			"deliverTime": 25,
+			"cheapestPrice": 300,
+			"discount": "60% off on all orders",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 68,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/umpfeqm3qhqtz7hqmnxh",
+			"name": "F K CATERERS",
+			"discription": "Chinese, Biryani, Fast Food",
+			"rating": "3.4",
+			"deliverTime": 29,
+			"cheapestPrice": 250,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Biryanis",
+					"foodItems": [62, 63, 64, 65, 66]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 69,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mlwtkkods0ewao8gmlt5",
+			"name": "Tatya Misal House",
+			"discription": "Maharashtrian, Street Food",
+			"rating": "3.5",
+			"deliverTime": 29,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Quick Bites",
+					"foodItems": [81, 82, 83]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 70,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/iiwqdd8goilbaeksio0n",
+			"name": "Hidden Place - The Hangout",
+			"discription": "North Indian, Biryani, Continental",
+			"rating": "3.6",
+			"deliverTime": 38,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Biryanis",
+					"foodItems": [62, 63, 64, 65, 66]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 73,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gbmb2euviqtj0dpqjq09",
+			"name": "Buddha Paradise",
+			"discription": "South Indian, Fast Food, Chinese",
+			"rating": "3.6",
+			"deliverTime": 25,
+			"cheapestPrice": 250,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Dosa",
+					"foodItems": [67, 68, 69]
+				},
+				{
+					"category": "Uttappa",
+					"foodItems": [70, 71, 72]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 76,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/eyok5uhkouly2dl4fjl4",
+			"name": "Prem's",
+			"discription": "Indian, Chinese",
+			"rating": "3.8",
+			"deliverTime": 34,
+			"cheapestPrice": 1000,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 77,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kllztailoexm8neiogbv",
+			"name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+			"discription": "Ice Cream Cakes, Desserts, Ice Cream, Bakery",
+			"rating": "3.8",
+			"deliverTime": 25,
+			"cheapestPrice": 250,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [13, 14, 15]
+				},
+				{
+					"category": "Seasonal",
+					"foodItems": [16, 17, 18]
+				},
+				{
+					"category": "Friday Funday Flavour (New Attraction)",
+					"foodItems": [19, 20, 21]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 78,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/yeybs1kte1ml6rvfldcj",
+			"name": "Grandmama's Cafe",
+			"discription": "Italian, American",
+			"rating": "3.8",
+			"deliverTime": 35,
+			"cheapestPrice": 800,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "This Week Special",
+					"foodItems": [54, 55, 56]
+				},
+				{
+					"category": "Dolce",
+					"foodItems": [57, 58]
+				},
+				{
+					"category": "Antipasti/contorni",
+					"foodItems": [59, 60, 61]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 79,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hzxza2bt20ihfjtggr9m",
+			"name": "Mankar Dosa",
+			"discription": "South Indian, Fast Food",
+			"rating": "3.9",
+			"deliverTime": 27,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Dosa",
+					"foodItems": [67, 68, 69]
+				},
+				{
+					"category": "Uttappa",
+					"foodItems": [70, 71, 72]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 80,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/vthbc7mcegsmihsjmnv3",
+			"name": "Mughal Tadka",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "3.9",
+			"deliverTime": 24,
+			"cheapestPrice": 300,
+			"discount": "10% off | Use TRYNEW",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "delhi"
+		},
+		{
+			"id": 81,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gppnfxv8zyj40gkmtfhb",
+			"name": "Rewar park",
+			"discription": "North Indian, Biryani, Chinese, Mughlai, Punjabi, Kebabs, Beverages",
+			"rating": "3.4",
+			"deliverTime": 24,
+			"cheapestPrice": 300,
+			"discount": "10% off | Use TRYNEW",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 82,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lmdsb4pmvkbriabllidr",
+			"name": "Absolute China",
+			"discription": "Chinese",
+			"rating": "3.5",
+			"deliverTime": 42,
+			"cheapestPrice": 200,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 83,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/j7qdw1ub5llnhuatzfwf",
+			"name": "Hotel Al Zaika",
+			"discription": "North Indian, Chinese, Biryani",
+			"rating": "3.6",
+			"deliverTime": 22,
+			"cheapestPrice": 350,
+			"discount": "70% off on all orders",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 84,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/n6nlzl0pp4doaiwjfo5k",
+			"name": "SAI SHIVNERI",
+			"discription": "North Indian, Indian, Chinese",
+			"rating": "3.7",
+			"deliverTime": 27,
+			"cheapestPrice": 500,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [27, 28, 29]
+				},
+				{
+					"category": "Chicken",
+					"foodItems": [30, 31, 32]
+				},
+				{
+					"category": "Swag Combos",
+					"foodItems": [33, 34, 35]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 85,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bka69zfghkixwome10mx",
+			"name": "Cake Dior",
+			"discription": "Desserts",
+			"rating": "3.8",
+			"deliverTime": 28,
+			"cheapestPrice": 350,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Christmas Specials",
+					"foodItems": [45, 46, 47]
+				},
+				{
+					"category": "Combos",
+					"foodItems": [48, 49, 50]
+				},
+				{
+					"category": "Cakes",
+					"foodItems": [51, 52, 53]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 86,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/qurmw4sy3qgd20lysycm",
+			"name": "Taj Mahal Hotel",
+			"discription": "North Indian",
+			"rating": "3.6",
+			"deliverTime": 27,
+			"cheapestPrice": 400,
+			"discount": "FREE DELIVERY",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 87,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dsrun22faylnn80l7zi7",
+			"name": "Khan kajana",
+			"discription": "North Indian, Chinese, Snacks",
+			"rating": "3.6",
+			"deliverTime": 29,
+			"cheapestPrice": 150,
+			"discount": "FREE DELIVERY",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 88,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/fqajqqkmjnuzhqb2djcc",
+			"name": "ZAZA 22 Spice Biryani",
+			"discription": "Biryani, North Indian, Awadhi",
+			"rating": "3.8",
+			"deliverTime": 26,
+			"cheapestPrice": 250,
+			"discount": "Flat ₹125 off on orders above ₹299",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 89,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wccecxoeqmald7iswkto",
+			"name": "Piazza pizza by Little Italy",
+			"discription": "Italian, Pizzas, Pastas, Desserts",
+			"rating": "3.8",
+			"deliverTime": 37,
+			"cheapestPrice": 500,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [45, 46, 47]
+				}
+			]
+		},
+		{
+			"id": 90,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hin0thakdftbklfxonzn",
+			"name": "The Burger House",
+			"discription": "American",
+			"rating": "3.8",
+			"deliverTime": 30,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Pure Veg Burgers",
+					"foodItems": [84, 85]
+				},
+				{
+					"category": "Non-veg Burgers",
+					"foodItems": [86, 87]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 91,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lulxldeuy0w2zzruiprn",
+			"name": "Senoritas Mexican kitchen by Little Italy",
+			"discription": "Pizzas, Mexican, Desserts",
+			"rating": "3.8",
+			"deliverTime": 31,
+			"cheapestPrice": 500,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [45, 46, 47]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 92,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/yslgjhbglnlyinjt9mxw",
+			"name": "The Cake &amp; Cream Factory",
+			"discription": "Bakery, Desserts",
+			"rating": "3.9",
+			"deliverTime": 27,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Christmas Specials",
+					"foodItems": [45, 46, 47]
+				},
+				{
+					"category": "Combos",
+					"foodItems": [48, 49, 50]
+				},
+				{
+					"category": "Cakes",
+					"foodItems": [51, 52, 53]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 93,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ualjismbjdyfx5bb6srt",
+			"name": "Biryani Khana",
+			"discription": "Biryani, Chinese",
+			"rating": "3.9",
+			"deliverTime": 25,
+			"cheapestPrice": 300,
+			"discount": "FREE DELIVERY",
+			"menu": [
+				{
+					"category": "Biryanis",
+					"foodItems": [62, 63, 64, 65, 66]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 94,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/x4e3oduk7cuwow8iwtbb",
+			"name": "Momo's Corrner",
+			"discription": "Chinese, Beverages",
+			"rating": "3.4",
+			"deliverTime": 26,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [45, 46, 47]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 95,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/b9abxw7d7oz5qflxu2ij",
+			"name": "La Bouchee d'Or",
+			"discription": "Bakery, Desserts",
+			"rating": "3.5",
+			"deliverTime": 28,
+			"cheapestPrice": 400,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Christmas Specials",
+					"foodItems": [45, 46, 47]
+				},
+				{
+					"category": "Combos",
+					"foodItems": [48, 49, 50]
+				},
+				{
+					"category": "Cakes",
+					"foodItems": [51, 52, 53]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 96,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/tm6jfx64cgt1igsnsucy",
+			"name": "Crossways Gourmet Salads",
+			"discription": "Continental, Indian, Asian, Chinese, Burmese, Burgers",
+			"rating": "3.6",
+			"deliverTime": 35,
+			"cheapestPrice": 500,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Pure Veg Burgers",
+					"foodItems": [84, 85]
+				},
+				{
+					"category": "Non-veg Burgers",
+					"foodItems": [86, 87]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 97,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xontndis5sprzb9h8zwm",
+			"name": "Anna Idli",
+			"discription": "South Indian",
+			"rating": "3.7",
+			"deliverTime": 26,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Dosa",
+					"foodItems": [67, 68, 69]
+				},
+				{
+					"category": "Uttappa",
+					"foodItems": [70, 71, 72]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 98,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/viq1mjrvsv4eji3zrpha",
+			"name": "Tasty Corner",
+			"discription": "North Indian",
+			"rating": "3.8",
+			"deliverTime": 32,
+			"cheapestPrice": 150,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Recommended",
+					"foodItems": [36, 37, 38]
+				},
+				{
+					"category": "Main Course",
+					"foodItems": [39, 40, 41]
+				},
+				{
+					"category": "Thalis",
+					"foodItems": [42, 43, 44]
+				}
+			],
+			"city": "bangalore"
+		},
+		{
+			"id": 100,
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/znme5rf0wdkxuyjqljpa",
+			"name": "Cafe Diamond King",
+			"discription": "Desserts, Juices",
+			"rating": "3.6",
+			"deliverTime": 25,
+			"cheapestPrice": 300,
+			"discount": "50% off | Use WELCOME50",
+			"menu": [
+				{
+					"category": "Christmas Specials",
+					"foodItems": [45, 46, 47]
+				},
+				{
+					"category": "Combos",
+					"foodItems": [48, 49, 50]
+				},
+				{
+					"category": "Cakes",
+					"foodItems": [51, 52, 53]
+				}
+			],
+			"city": "bangalore"
+		}
+	],
+
+	"dishes": [
+		{
+			"id": 1,
+			"category": "Sandwiches",
+			"name": "Masala Paneer Cheese Grilled Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r60dlolhfnjwqjag4pdy",
+			"price": 115,
+			"restaurant": [1],
+			"details": "Veggies and special masala paneer and cheese etc...",
+			"veg": true
+		},
+		{
+			"id": 2,
+			"category": "Sandwiches",
+			"name": "Masala Paneer Grilled Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r60dlolhfnjwqjag4pdy",
+			"price": "105",
+			"restaurant": [1],
+			"details": "Veggies and special masala paneer and more.",
+			"veg": true
+		},
+		{
+			"id": 3,
+			"category": "Sandwiches",
+			"name": "Masala Cheese Kolhapuri Grilled Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r60dlolhfnjwqjag4pdy",
+			"price": "105",
+			"restaurant": [1],
+			"details": "Spice like a kolhapuri masala and more.",
+			"veg": true
+		},
+		{
+			"id": 4,
+			"category": "Sandwiches",
+			"name": "Schezwan Cheese Veg Grilled Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r60dlolhfnjwqjag4pdy",
+			"price": "105",
+			"restaurant": [1],
+			"details": "Healthy veggies with spicy schezwan chutney and more.",
+			"veg": true
+		},
+		{
+			"id": 5,
+			"category": "Sandwich Premium",
+			"name": "Masala Paneer Cheese Grilled Double Decker Premium Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r60dlolhfnjwqjag4pdy",
+			"price": "185",
+			"restaurant": [1],
+			"details": "Delicius stuffing of masala paneer and topping of cheese of two layer and mayonnoise yummy combination served with tomato sauce and green chutney",
+			"veg": true
+		},
+		{
+			"id": 6,
+			"category": "Sandwich Premium",
+			"name": "Masala Paneer Grilled Double Decker Premium Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r60dlolhfnjwqjag4pdy",
+			"price": "175",
+			"restaurant": [1],
+			"details": "Healthy veggies with delicious paneer stuffing in two layers and more.......",
+			"veg": true
+		},
+		{
+			"id": 7,
+			"category": "Sandwich Premium",
+			"name": "Masala Cheese Kolhapuri Grilled Double Decker Premium Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r60dlolhfnjwqjag4pdy",
+			"price": "175",
+			"restaurant": [1],
+			"details": "Healthy veggies with spicy kolhapuri masala and  delicious cheese\nstuffing in two layers....",
+			"veg": true
+		},
+		{
+			"id": 8,
+			"category": "Sandwich Premium",
+			"name": "Veg Tandoori Cheese Grilled Double Decker Sandwich Premium",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r60dlolhfnjwqjag4pdy",
+			"price": "170",
+			"restaurant": [1],
+			"details": "Healthy veggies with tandoori mayonnaise and delicious cheese stuffing in two layers.....",
+			"veg": true
+		},
+		{
+			"id": 9,
+			"category": "Kids Corner",
+			"name": "Cheese Butter Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ohzt0sbsqjwqn9wxxdhx",
+			"price": "80",
+			"restaurant": [1],
+			"veg": true
+		},
+		{
+			"id": 10,
+			"category": "Kids Corner",
+			"name": "Butter Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ohzt0sbsqjwqn9wxxdhx",
+			"price": "70",
+			"restaurant": [1],
+			"veg": true
+		},
+		{
+			"id": 11,
+			"category": "Kids Corner",
+			"name": "Chocolate Sandwich [kids]",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ohzt0sbsqjwqn9wxxdhx",
+			"price": "80",
+			"restaurant": [1],
+			"veg": true
+		},
+		{
+			"id": 12,
+			"category": "Kids Corner",
+			"name": "Tomato Cucumber Sandwich ( Kids)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ohzt0sbsqjwqn9wxxdhx",
+			"price": "75",
+			"restaurant": [1],
+			"veg": true
+		},
+		{
+			"id": 13,
+			"category": "Recommended",
+			"name": "Mango (Medium Fat) Ice Cream",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nmio8auhcachtmyewqez",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "We’ve taken the king of fruits and created an ice cream flavour that rules! Our mango ice cream is made from hand-picked Alphonso mangoes sourced from Ratnagiri. This flavour is every mango lover’s fantasy come true.",
+			"veg": true
+		},
+		{
+			"id": 14,
+			"category": "Recommended",
+			"name": "Tender Coconut Ice Cream",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vdn9vl4z46isjynfeddf",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "Naturals is a pioneer of the ‘Tender Coconut’ flavour in the country. As an original flavour from Naturals, it is a huge favourite among ice cream lovers. It’s made with real malai from tender coconuts that are sourced from Kerala and Karnataka. You just can’t have enough of this delicious flavour!",
+			"veg": true
+		},
+		{
+			"id": 15,
+			"category": "Recommended",
+			"name": "Roasted Almond Ice Cream",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ydltnftcqt6efqabascf",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "The almonds are sourced from California. But the inimitable taste of this delicious flavour is our very own! As the name suggests, the almonds are roasted and that’s how they lend a crispy and chunky feel to the ice cream. Indulgence, anyone?",
+			"veg": true
+		},
+		{
+			"id": 16,
+			"category": "Seasonal",
+			"name": "Strawberry Ice Cream",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tohbnlh0iacjcd6tcs0a",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "This much loved flavour from Naturals owes its taste to fresh strawberries from Mahabaleshwar. And if you taste it once, you’re bound to get hooked!",
+			"veg": true
+		},
+		{
+			"id": 17,
+			"category": "Seasonal",
+			"name": "Guava Ice Cream",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/89ef6eb90f808e300f473fe33707d893",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "Take a trip down memory lane with our original Guava ice cream, made from Allahabadi pink guavas. It’s that unforgettable taste that will remind you of childhood’s most adored flavour!",
+			"veg": true
+		},
+		{
+			"id": 18,
+			"category": "Seasonal",
+			"name": "Mango (Medium Fat) Ice Cream",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nmio8auhcachtmyewqez",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "We’ve taken the king of fruits and created an ice cream flavour that rules! Our mango ice cream is made from hand-picked Alphonso mangoes sourced from Ratnagiri. This flavour is every mango lover’s fantasy come true.",
+			"veg": true
+		},
+		{
+			"id": 19,
+			"category": "Friday Funday Flavour (New Attraction)",
+			"name": "Raspberry Chocolate Ice Cream",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/h5px5uoj1oh434s9s6aa",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "Treat yourself and your loved ones to this lusciously original flavour. Raspberry comes all the way from Serbia to make this special flavour. Chocolate chunks are also added so you relish this one with all your heart!",
+			"veg": true
+		},
+		{
+			"id": 20,
+			"category": "Friday Funday Flavour (New Attraction)",
+			"name": "Gajar Halwa",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xj6zqmaici6u9kq5czzh",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "Good news for Gajar Halwa enthusiasts! Inspired by the famous North Indian dessert, we’ve created this flavour that will bring a smile on your face! This delicacy is made with winter carrots and is available during the winters. Once you’ve tasted it, you’ll keep coming back for more.",
+			"veg": true
+		},
+		{
+			"id": 21,
+			"category": "Friday Funday Flavour (New Attraction)",
+			"name": "Orange Pistachio Ice Cream",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c3b0fbf2c4f2a2ec726973d3265a9ee8",
+			"price": 65.25,
+			"restaurant": [2, 77],
+			"details": "Orange Pistachio is inspired by the nostalgic taste of orange barfi which is loved by all. This flavour also has a Turkish influence, since orange and pista is a combination used for making Turkish delights. Naturals has launched the Orange Pistachio ice cream, which has an international yet desi twist. Pulpy, zesty orange bites compliment the nutty, roasted pistachios in this unique flavour!",
+			"veg": true
+		},
+		{
+			"id": 22,
+			"category": "Recommended",
+			"name": "Confuscius",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vruyoulpu2lvj9i4funo",
+			"price": 340,
+			"restaurant": [3, 37, 31],
+			"details": "Chicken supreme, cherry tomatoes, olives, baby onion, herbs oil.",
+			"veg": false
+		},
+		{
+			"id": 23,
+			"category": "Recommended",
+			"name": "Alexia",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lnt4idqouuyqbmeudwww",
+			"price": 400,
+			"restaurant": [3, 37, 31],
+			"details": "Chicken, prawns, spiced barbeque sauce, fresh greens, vinaigrette.",
+			"veg": false
+		},
+		{
+			"id": 24,
+			"category": "Recommended",
+			"name": "Charles The Bold",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/h92ldeskfh5y54iwwdfu",
+			"price": 470,
+			"restaurant": [3, 37, 31],
+			"details": "Grilled pieces of chicken sauteed with bell peppers and mushrooms, topped with a paprika sauce, served with potato croquettes.",
+			"veg": false
+		},
+		{
+			"id": 25,
+			"category": "Soft Beverage",
+			"name": "Fresh Lime Soda",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jjihm2iruqj1jhai1dti",
+			"price": 120,
+			"restaurant": [3, 37, 31],
+			"veg": true
+		},
+		{
+			"id": 26,
+			"category": "Soft Beverage",
+			"name": "Fresh Lime Water",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/igotoocq0az5te0ft1kc",
+			"price": 120,
+			"restaurant": [3, 37, 31],
+			"veg": true
+		},
+		{
+			"id": 27,
+			"category": "Recommended",
+			"name": "Veg Manchow Soup",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ksfr52d2glkurtfxi9f5",
+			"price": 120,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"details": "Indo Chinese style veg soup with hot and spicy flavours; served with crispy fried noodles.",
+			"veg": true
+		},
+		{
+			"id": 28,
+			"category": "Recommended",
+			"name": "Veg Manchurian (6 Pcs)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/t6r28ufx3cr1fht5xygt",
+			"price": 184,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"details": "Deep fried veggie balls combined in a mixture of Manchurian sauce and other condiments.",
+			"veg": true
+		},
+		{
+			"id": 29,
+			"category": "Recommended",
+			"name": "Mutton Chilli (8 Pcs)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/htarspff4tsmzmxf2toa",
+			"price": 256,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"details": "This tempting dish has mutton cooked with lots of spices for a tantalizing flavour.",
+			"veg": false
+		},
+		{
+			"id": 30,
+			"category": "Chicken",
+			"name": "Chicken Tikka (6 Pcs)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/y9kfoikfpxh7naeobiaw",
+			"price": 184,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"details": "A grilled treat of marinated chicken pieces that tastes heavenly when relished.",
+			"veg": false
+		},
+		{
+			"id": 31,
+			"category": "Chicken",
+			"name": "Chicken Masala Lollipop (6 Pcs)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cz3ooc1b6djtrclhzcwy",
+			"price": 217,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"details": "Coated and fried chicken drumsticks combined in a masala paste for a tongue-tickling taste.",
+			"veg": false
+		},
+		{
+			"id": 32,
+			"category": "Chicken",
+			"name": "Chicken Manchurian (6 Pcs)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/htarspff4tsmzmxf2toa",
+			"price": 216,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"details": "Yummy balls of chicken tossed in a saucy base prepared with Manchurian sauce.",
+			"veg": false
+		},
+		{
+			"id": 33,
+			"category": "Swag Combos",
+			"name": "Boneless Butter Chicken + Pepsi 600 Ml",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n364fhsejqo2reln4bxq",
+			"price": 256,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"veg": false
+		},
+		{
+			"id": 34,
+			"category": "Swag Combos",
+			"name": "Chicken Biryani + Pepsi 600 Ml",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fsmrkdf5uqkrvuve77lp",
+			"price": 216,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"veg": false
+		},
+		{
+			"id": 35,
+			"category": "Swag Combos",
+			"name": "Chicken Hyderabadi Biryani + Pepsi 600 Ml",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/acqw9fewyzid9x5omas7",
+			"price": 280,
+			"restaurant": [
+				5, 6, 8, 18, 23, 27, 30, 32, 39, 47, 51, 53, 56, 57, 67, 76, 80, 81, 82,
+				83, 83, 84
+			],
+			"veg": false
+		},
+		{
+			"id": 36,
+			"category": "Recommended",
+			"name": "Chicken Lollipop (6 Pcs)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dwmm73oilcdxaual4qkl",
+			"price": 148,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": false
+		},
+		{
+			"id": 37,
+			"category": "Recommended",
+			"name": "Chicken Masala Lollipop (6 Pcs)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rb3k8amflvg4bgnjrszo",
+			"price": 160,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": false
+		},
+		{
+			"id": 38,
+			"category": "Recommended",
+			"name": "Paneer Butter Masala",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ioryv3kj4fqfto1xhdv8",
+			"price": 132,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": true
+		},
+		{
+			"id": 39,
+			"category": "Main Course",
+			"name": "Mixed Veg",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ipincpfpk86thrufqmbr",
+			"price": 100,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": true
+		},
+		{
+			"id": 40,
+			"category": "Main Course",
+			"name": "Veg Green Peas",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e38kvq7afb24hbry5uz2",
+			"price": 108,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": true
+		},
+		{
+			"id": 41,
+			"category": "Main Course",
+			"name": "Veg Kolhapuri",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e38kvq7afb24hbry5uz2",
+			"price": 120,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": true
+		},
+		{
+			"id": 42,
+			"category": "Thalis",
+			"name": "Veg Thali",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/eqsa5aiaa3rhdmpn9smv",
+			"price": 90,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": true
+		},
+		{
+			"id": 43,
+			"category": "Thalis",
+			"name": "Egg Thali",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zowoobd88jggddeikuf7",
+			"price": 150,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": false
+		},
+		{
+			"id": 44,
+			"category": "Thalis",
+			"name": "Chicken Thali",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zowoobd88jggddeikuf7",
+			"price": 174,
+			"restaurant": [
+				9, 12, 14, 19, 26, 28, 29, 34, 40, 44, 45, 61, 62, 63, 86, 87, 88, 98
+			],
+			"veg": false
+		},
+		{
+			"id": 45,
+			"category": "Christmas Specials",
+			"name": "Christmas Cake [750g]",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fddb84dc2b7fd24f26087ba010931428",
+			"price": 975,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "Christmas fruit cake made with macerated fruits, dates, prunes, orange peel, almonds, and Traditional spices.",
+			"veg": false
+		},
+		{
+			"id": 46,
+			"category": "Christmas Specials",
+			"name": "Christmas Cake [350g]",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bfe2b3cdd721ec0f6d5532ce38305040",
+			"price": 575,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "Christmas fruit cake made with macerated fruits, dates, prunes, orange peel, almonds, and Traditional spices.",
+			"veg": false
+		},
+		{
+			"id": 47,
+			"category": "Christmas Specials",
+			"name": "Marzipan Gift Box [8 Pcs]",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/5b9d991787c0c29b9083102e16f39326",
+			"price": 525,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "An assortment of Christmas themed nut fudge bites in almond, hazelnut, cashew, and pistachio.",
+			"veg": true
+		},
+		{
+			"id": 48,
+			"category": "Combos",
+			"name": "Choice of Eggless Pastry + Choice of Coffee",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sd8p4aguu7vigu21nzt4",
+			"price": 135,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "Any eggless pastry and coffee of choice.",
+			"veg": true
+		},
+		{
+			"id": 49,
+			"category": "Combos",
+			"name": "Choice of Veg Sandwiches & Rolls + Choice of Coffee",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uhdrpov9scngdlmu7t3x",
+			"price": 162,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "Any veg sandwich and coffee of choice.",
+			"veg": true
+		},
+		{
+			"id": 50,
+			"category": "Combos",
+			"name": "Choice of Non Veg Sandwiches & Rolls + Choice of Coffee",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dfyexk2edekwohzezudi",
+			"price": 195,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "Any non-veg sandwich and coffee of choice.",
+			"veg": false
+		},
+		{
+			"id": 51,
+			"category": "Cakes",
+			"name": "Eggless Dutch Truffle Cake [1/2kg]",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iazlxswf5zagrimlcnuo",
+			"price": 550,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "Dark chocolate ganache with chocolate sponge.",
+			"veg": true
+		},
+		{
+			"id": 52,
+			"category": "Cakes",
+			"name": "Eggless Fresh Cream Pineapple Cake [1/2kg]",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ujxqk8v2oifted3im7ve",
+			"price": 650,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "Fresh cream cake with home made pineapple compote.",
+			"veg": true
+		},
+		{
+			"id": 53,
+			"category": "Cakes",
+			"name": "Eggless Red Velvet Cake [1/2kg]",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/elqrifdw0dabdpioqnee",
+			"price": 650,
+			"restaurant": [7, 48, 85, 92, 95, 100],
+			"details": "Red velvet sponge layered with cream cheese frosting enhanced with lime juice.",
+			"veg": true
+		},
+		{
+			"id": 54,
+			"category": "This Week Special",
+			"name": "Gnocchi Alla Ragu",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3940671f57fff5b93c0b43d009f2c30c",
+			"price": 500,
+			"restaurant": [10, 11, 15, 78],
+			"details": "Slow cooked onions, concentrated tomato, honey, parmesan",
+			"veg": true
+		},
+		{
+			"id": 55,
+			"category": "This Week Special",
+			"name": "Bruschetta Con Zucchine E Pesto E Noce",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a53b47c73c0fb6231dea941f999cff6c",
+			"price": 400,
+			"restaurant": [10, 11, 15, 78],
+			"details": "Lemon and pesto marinated zucchini, walnuts",
+			"veg": true
+		},
+		{
+			"id": 56,
+			"category": "This Week Special",
+			"name": "Casarecce Aglio E Olio",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bb07ebd9613d418c884fb5d5bb1f5ee1",
+			"price": 350,
+			"restaurant": [10, 11, 15, 78],
+			"details": "Simple, no-nonsense, old school way",
+			"veg": true
+		},
+		{
+			"id": 57,
+			"category": "Dolce",
+			"name": "Cannolo",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/g8jnz2c3l84m2f1inpjt",
+			"price": 300,
+			"restaurant": [10, 11, 15, 78],
+			"details": "Fried pastry filled with sweet ricotta and coated with pistachio",
+			"veg": true
+		},
+		{
+			"id": 58,
+			"category": "Dolce",
+			"name": "Vanilla Panna Cotta",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9b0975f1ebf50fc1a62064e65e9a76d8",
+			"price": 300,
+			"restaurant": [10, 11, 15, 78],
+			"details": "Served with strawberries",
+			"veg": true
+		},
+		{
+			"id": 59,
+			"category": "Antipasti/contorni",
+			"name": "Bruschetta Ai Funghi",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/anctuprqjgx3u334u1ie",
+			"price": 350,
+			"restaurant": [10, 11, 15, 78],
+			"details": "Toasted sourdough, tomato, basil, fresh ricotta",
+			"veg": true
+		},
+		{
+			"id": 60,
+			"category": "Antipasti/contorni",
+			"name": "Bruschetta Al Pomodoro",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wzzpvexmdxjsgkg5gts5",
+			"price": 350,
+			"restaurant": [10, 11, 15, 78],
+			"details": "Potato cheese pancake, bagnet verde",
+			"veg": true
+		},
+		{
+			"id": 61,
+			"category": "Antipasti/contorni",
+			"name": "Frico Morbido |",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/emp3k8vj1c5rfuye9j3r",
+			"price": 350,
+			"restaurant": [10, 11, 15, 78],
+			"details": "Ricotta dumplings served with sage butter and parmigiano",
+			"veg": true
+		},
+		{
+			"id": 62,
+			"category": "Biryanis",
+			"name": "Paneer tikka biriyani",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qirtbpigmylmkgcqom6k",
+			"price": 162,
+			"restaurant": [16, 21, 38, 46, 68, 70, 93],
+			"veg": true
+		},
+		{
+			"id": 63,
+			"category": "Biryanis",
+			"name": "Paneer hydrbadi biriyani",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yl0cxaaxibljdbwrkqso",
+			"price": 158,
+			"restaurant": [16, 21, 38, 46, 68, 70, 93],
+			"veg": true
+		},
+		{
+			"id": 64,
+			"category": "Biryanis",
+			"name": "Paneer biriyani",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/x0lv7jpeolaqsmty7cn0",
+			"price": 153,
+			"restaurant": [16, 21, 38, 46, 68, 70, 93],
+			"veg": true
+		},
+		{
+			"id": 65,
+			"category": "Biryanis",
+			"name": "Chiken biriyani 1kg",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e8u88yvgbhgkk6pamjib",
+			"price": 942,
+			"restaurant": [16, 21, 38, 46, 68, 70, 93],
+			"veg": false
+		},
+		{
+			"id": 66,
+			"category": "Biryanis",
+			"name": "Chicken tikka biriyani",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e8u88yvgbhgkk6pamjib",
+			"price": 180,
+			"restaurant": [16, 21, 38, 46, 68, 70, 93],
+			"veg": false
+		},
+		{
+			"id": 67,
+			"category": "Dosa",
+			"name": "Amul Sada Dosa",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/g8mkwzfxi3tsovp5herp",
+			"price": 90,
+			"restaurant": [17, 54, 60, 73, 79, 97],
+			"veg": true
+		},
+		{
+			"id": 68,
+			"category": "Dosa",
+			"name": "Amul Cheese Sada Dosa",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/g8mkwzfxi3tsovp5herp",
+			"price": 110,
+			"restaurant": [17, 54, 60, 73, 79, 97],
+			"veg": true
+		},
+		{
+			"id": 69,
+			"category": "Dosa",
+			"name": "Amul Cheese Masala Dosa",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/g8mkwzfxi3tsovp5herp",
+			"price": 120,
+			"restaurant": [17, 54, 60, 73, 79, 97],
+			"veg": true
+		},
+		{
+			"id": 70,
+			"category": "Uttappa",
+			"name": "Amul Onion Uttappa",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/g8mkwzfxi3tsovp5herp",
+			"price": 90,
+			"restaurant": [17, 54, 60, 73, 79, 97],
+			"veg": true
+		},
+		{
+			"id": 71,
+			"category": "Uttappa",
+			"name": "Amul Cheese Onion Uttappa",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/g8mkwzfxi3tsovp5herp",
+			"price": 130,
+			"restaurant": [17, 54, 60, 73, 79, 97],
+			"veg": true
+		},
+		{
+			"id": 72,
+			"category": "Uttappa",
+			"name": "Jain Plain Uttappa",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/g8mkwzfxi3tsovp5herp",
+			"price": 90,
+			"restaurant": [17, 54, 60, 73, 79, 97],
+			"veg": true
+		},
+		{
+			"id": 73,
+			"category": "Breakfast Sandwiches",
+			"name": "Egg & Cheese Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sej4xnxeaii1xlyxfxvw",
+			"price": 180.95,
+			"restaurant": [20],
+			"details": "A classic for a reason. our egg and cheese is simply delicious. Enjoy high protein fluffy egg omelet with cheese. Try it toasted - it's unbeatable.",
+			"veg": false
+		},
+		{
+			"id": 74,
+			"category": "Breakfast Sandwiches",
+			"name": "Chicken Slice Egg & Cheese Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aikwui8gqgrwnlgfcffa",
+			"price": 200,
+			"restaurant": [20],
+			"details": "Start your day the fresh way with high protein fluffy eggs, chicken slices, and mouth-watering cheese on a freshly baked bread.",
+			"veg": false
+		},
+		{
+			"id": 75,
+			"category": "Veg Sandwiches",
+			"name": "Aloo Patty Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ttoydnlmxjmsy4bnxptn",
+			"price": 209.52,
+			"restaurant": [20],
+			"details": "Aloo patty seasoned with special herbs and spices, paired with your choice of your favourite nutritious veggies, on a freshly baked bread.",
+			"veg": true
+		},
+		{
+			"id": 76,
+			"category": "Veg Sandwiches",
+			"name": "Veg Seekh Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/my02qacx4vdywsffvhdc",
+			"price": 209.52,
+			"restaurant": [20],
+			"details": "Delicious kebabs made with bengal gram, vegetables and spices served along with wholesome vegetables and a delicious sauce. All packed in your choice of freshly baked bread.",
+			"veg": true
+		},
+		{
+			"id": 77,
+			"category": "Veg Sandwiches",
+			"name": "Veggie Delite® Sandwich",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nyijndkvbvxlzytlo5e7",
+			"price": 209.52,
+			"restaurant": [20],
+			"details": "Delicious combination of fresh lettuce, tomatoes, green peppers, onions, olives and pickles served on a freshly baked bread.",
+			"veg": true
+		},
+		{
+			"id": 78,
+			"category": "Veg Salads",
+			"name": "Aloo Patty Salad",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tummkh3izaotrutlavn5",
+			"price": 266.67,
+			"restaurant": [20],
+			"details": "Everything but the bread! A combination of perfectly blended aloo patty, tasty veggies and a lip-smacking dressing.",
+			"veg": true
+		},
+		{
+			"id": 79,
+			"category": "Veg Salads",
+			"name": "Veggie Delite Salad",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tummkh3izaotrutlavn5",
+			"price": 266.67,
+			"restaurant": [20],
+			"details": "Everything but the bread! A combination of perfectly blended aloo patty, tasty veggies and a lip-smacking dressing.",
+			"veg": true
+		},
+		{
+			"id": 80,
+			"category": "Veg Salads",
+			"name": "Corn & Peas Salad",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tummkh3izaotrutlavn5",
+			"price": 266.67,
+			"restaurant": [20],
+			"details": "Everything but the bread! A combination of perfectly blended aloo patty, tasty veggies and a lip-smacking dressing.",
+			"veg": true
+		},
+		{
+			"id": 81,
+			"category": "Quick Bites",
+			"name": "Light Misal Pav",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/y36ubt1pv2nqcmhk6gfe",
+			"price": 120,
+			"restaurant": [22, 33, 69],
+			"details": "A popular maharashtrian delicacy prepared with potato subji (no matki) and topped with crispy farsan, flavorsome less spicy gravy and served with a pair of soft pavs.",
+			"veg": true
+		},
+		{
+			"id": 82,
+			"category": "Quick Bites",
+			"name": "Tikhat Misal Pav",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/s9z7lokvkuwm9hmcmhis",
+			"price": 120,
+			"restaurant": [22, 33, 69],
+			"details": "A popular maharashtrian delicacy prepared with potato subji (no matki) and topped with crispy farsan, flavorsome less spicy gravy and served with a pair of soft pavs.",
+			"veg": true
+		},
+		{
+			"id": 83,
+			"category": "Quick Bites",
+			"name": "Medium Misal Pav",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dowruwaz6dhuwjrgr9a3",
+			"price": 120,
+			"restaurant": [22, 33, 69],
+			"details": "A popular maharashtrian delicacy prepared with potato subji (no matki) and topped with crispy farsan, flavorsome less spicy gravy and served with a pair of soft pavs.",
+			"veg": true
+		},
+		{
+			"id": 84,
+			"category": "Pure Veg Burgers",
+			"name": "Herb Chilly Bhuka Burger",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bgcczyxive4uyzlc9bdq",
+			"price": 139,
+			"restaurant": [25, 90, 96],
+			"veg": true
+		},
+		{
+			"id": 85,
+			"category": "Pure Veg Burgers",
+			"name": "Classic Veg Burgers",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bgcczyxive4uyzlc9bdq",
+			"price": 119,
+			"restaurant": [25, 90, 96],
+			"veg": true
+		},
+		{
+			"id": 86,
+			"category": "Non-veg Burgers",
+			"name": "Schezwan Chilly Chicken Burger",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bgcczyxive4uyzlc9bdq",
+			"price": 189,
+			"restaurant": [25, 90, 96],
+			"veg": false
+		},
+		{
+			"id": 87,
+			"category": "Non-veg Burgers",
+			"name": "Schezwan Chilly Chicken Burger",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bgcczyxive4uyzlc9bdq",
+			"price": 149,
+			"restaurant": [25, 90, 96],
+			"veg": false
+		},
+		{
+			"id": 88,
+			"category": "Morinig Breakfast Combos",
+			"name": "Poha + Dal Kachori",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bvaf5xriewiokgyhtcdh",
+			"price": 129,
+			"restaurant": [52, 36, 42],
+			"veg": true
+		},
+		{
+			"id": 89,
+			"category": "Morinig Breakfast Combos",
+			"name": "Poha + Samosa",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bvaf5xriewiokgyhtcdh",
+			"price": 139,
+			"restaurant": [52, 36, 42],
+			"veg": true
+		},
+		{
+			"id": 90,
+			"category": "Morinig Breakfast Combos",
+			"name": "Khaman Dhokla",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bvaf5xriewiokgyhtcdh",
+			"price": 139,
+			"restaurant": [52, 36, 42],
+			"veg": true
+		},
+		{
+			"id": 91,
+			"category": "Veg Momos",
+			"name": "Veg Fry Momos",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vayewnu8riwbvxuzvkhb",
+			"price": 95,
+			"restaurant": [64, 94],
+			"details": "Crisp Golden Fried Momos Stuffed With Fined Chopped Cabbage,Carrot and Green Chilli,Served With Spicy Red Chutney.",
+			"veg": true
+		},
+		{
+			"id": 92,
+			"category": "Veg Momos",
+			"name": "Veg Jugad Tandoor Momos",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vayewnu8riwbvxuzvkhb",
+			"price": 125,
+			"restaurant": [64, 94],
+			"details": "Veg Momos Marinated with Tandoori Masala, Made by Chef By Their Own Receipe, Grilled in Charcoal Bhatti , Cover with Mouthwatering Shredded Cheese and Butter, Sprinkled Chaat Masla , Served with Green Chutney.",
+			"veg": true
+		},
+		{
+			"id": 93,
+			"category": "Cakes",
+			"name": "Mocha (Small)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/csqjz5yfgpfms4n97uvi",
+			"price": 466,
+			"restaurant": [65, 66],
+			"veg": true
+		},
+		{
+			"id": 94,
+			"category": "Cakes",
+			"name": "Pineapple (Small)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sozk42o3rpbuhum1rpjr",
+			"price": 466,
+			"restaurant": [65, 66],
+			"veg": true
+		},
+		{
+			"id": 95,
+			"category": "Cakes",
+			"name": "Chocolate Truffle Special (Small)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pmhnpu4sx91aoe3jlryp",
+			"price": 466,
+			"restaurant": [65, 66],
+			"veg": true
+		},
+		{
+			"id": 96,
+			"category": "Cakes",
+			"name": "Tiramisu (small)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pmhnpu4sx91aoe3jlryp",
+			"price": 466,
+			"restaurant": [65, 66],
+			"veg": true
+		},
+		{
+			"id": 97,
+			"category": "Cakes",
+			"name": "Butter Scotch (Small)",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pmhnpu4sx91aoe3jlryp",
+			"price": 466,
+			"restaurant": [65, 66],
+			"veg": true
+		},
+		{
+			"id": 98,
+			"category": "Recommended",
+			"name": "Classic Margherita Pizza",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/956d61258ec220dedf96e265b8c9b597",
+			"price": 295,
+			"restaurant": [59, 89, 91],
+			"veg": true
+		},
+		{
+			"id": 99,
+			"category": "Recommended",
+			"name": "Double Cheese Margherita",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8eeae16bbbba25328e609a952fef4cb7",
+			"price": 325,
+			"restaurant": [59, 89, 91],
+			"veg": true
+		},
+		{
+			"id": 100,
+			"category": "Recommended",
+			"name": "Garden Fresh Pizza",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/2c3d0d59fbd93aae2321b1ae7368e604",
+			"price": 350,
+			"restaurant": [59, 89, 91],
+			"veg": true
+		},
+		{
+			"id": 101,
+			"category": "Recommended",
+			"name": "Hot & Spicy Pizza",
+			"image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/2c3d0d59fbd93aae2321b1ae7368e604",
+			"price": 290,
+			"restaurant": [59, 89, 91],
+			"veg": true
+		}
+	]
+}
